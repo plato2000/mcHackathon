@@ -1,196 +1,199 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <!-- saved from url=(0043)http://getbootstrap.com/examples/dashboard/ -->
-<!DOCTYPE html PUBLIC "" ""><HTML lang="en">
+<!DOCTYPE html PUBliC "" ""><html lang="en">
 <HEAD>
-	<META content="IE=11.0000" http-equiv="X-UA-Compatible">
+	<meta content="IE=11.0000" http-equiv="X-UA-Compatible">
      
-	<META charset="utf-8">     
-	<META http-equiv="X-UA-Compatible" content="IE=edge">     
-	<META name="viewport" content="width=device-width, initial-scale=1">     
-	<META name="description" content="">     
-	<META name="author" content="">
-	<LINK href="../../assets/ico/favicon.ico" rel="shortcut icon">
-	<TITLE>Dashboard Template for Bootstrap</TITLE>     <!-- Bootstrap core CSS --> 
-    <LINK href="css/bootstrap.min.css" rel="stylesheet">
+	<meta charset="utf-8">     
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">     
+	<meta name="viewport" content="width=device-width, initial-scale=1">     
+	<meta name="description" content="">     
+	<meta name="author" content="">
+	<link href="../../assets/ico/favicon.ico" rel="shortcut icon">
+	<title>Dashboard Template for Bootstrap</title>     <!-- Bootstrap core CSS --> 
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- Custom styles for this template -->
-	<LINK href="css/dashboard.css" rel="stylesheet">
+	<link href="css/dashboard.css" rel="stylesheet">
 	<!-- Just for debugging purposes. Don't actually copy this line! --> 
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   
-	<META name="GENERATOR" content="MSHTML 11.00.9600.16476"></HEAD>   
-<BODY>
-	<DIV class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-	<DIV class="container-fluid">
-	<DIV class="navbar-header"><BUTTON class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
-	<SPAN class="sr-only">Toggle navigation</SPAN>
-	<SPAN 
-	class="icon-bar"></SPAN><SPAN class="icon-bar"></SPAN><SPAN 
-	class="icon-bar"></SPAN></BUTTON>           <A class="navbar-brand" href="http://getbootstrap.com/examples/dashboard/#">Project 
-	name</A>         </DIV>
-	<DIV class="navbar-collapse collapse">
-	<UL class="nav navbar-nav navbar-right">
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Dashboard</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Settings</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Profile</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Help</A></LI></UL>
+	<meta name="GENERATOR" content="MShtml 11.00.9600.16476"></HEAD>   
+<body>
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container-fluid">
+	<div class="navbar-header">
+	<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	</button>
+	<a class="navbar-brand" href="http://getbootstrap.com/examples/dashboard/#">Project name</a>
+	</div>
+	<div class="navbar-collapse collapse">
+	<ul class="nav navbar-nav navbar-right">
+	  <li><a href="http://getbootstrap.com/examples/dashboard/#">Dashboard</a></li>
+	  <li><a href="http://getbootstrap.com/examples/dashboard/#">Settings</a></li>
+	  <li><a href="http://getbootstrap.com/examples/dashboard/#">Profile</a></li>
+	  <li><a href="http://getbootstrap.com/examples/dashboard/#">Help</a></li></ul>
 	<FORM 
-	class="navbar-form navbar-right"><INPUT class="form-control" type="text" placeholder="Search..." value=""></FORM></DIV></DIV></DIV>
-	<DIV class="container-fluid">
-	<DIV class="row">
-	<DIV class="col-sm-3 col-md-2 sidebar">
-	<UL class="nav nav-sidebar">
-	  <LI class="active"><A "
-	  href="http://getbootstrap.com/examples/dashboard/#">Overview</A></LI>
-	  <LI><A href="/#">Reports</A></LI>
-	  <LI><A href="/#">Analytics</A></LI>
-	  <LI><A href="/#">Export</A></LI></UL>
-	<UL class="nav nav-sidebar">
-	  <LI><A href="/#">Nav item</A></LI>
-	  <LI><A href="/#">Nav item 
-	  again</A></LI>
-	  <LI><A href="/#">One more 
-	nav</A></LI>
-	  <LI><A href="/#">Another nav 
-	  item</A></LI>
-	  <LI><A href="/#">More 
-	  navigation</A></LI></UL>
-	<UL class="nav nav-sidebar">
-	  <LI><A href="/#">Nav item 
-	  again</A></LI>
-	  <LI><A href="/#">One more 
-	nav</A></LI>
-	  <LI><A href="/#">Another nav 
-	  item</A></LI></UL></DIV>
-	<DIV class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+	class="navbar-form navbar-right"><INPUT class="form-control" type="text" placeholder="Search..." value=""></FORM></div></div></div>
+	<div class="container-fluid">
+	<div class="row">
+	<div class="col-sm-3 col-md-2 sidebar">
+	<ul class="nav nav-sidebar">
+	  <li class="active"><a "
+	  href="http://getbootstrap.com/examples/dashboard/#">Overview</a></li>
+	  <li><a href="/#">Reports</a></li>
+	  <li><a href="/#">Analytics</a></li>
+	  <li><a href="/#">Export</a></li></ul>
+	<ul class="nav nav-sidebar">
+	  <li><a href="/#">Nav item</a></li>
+	  <li><a href="/#">Nav item 
+	  again</a></li>
+	  <li><a href="/#">One more 
+	nav</a></li>
+	  <li><a href="/#">Another nav 
+	  item</a></li>
+	  <li><a href="/#">More 
+	  navigation</a></li></ul>
+	<ul class="nav nav-sidebar">
+	  <li><a href="/#">Nav item 
+	  again</a></li>
+	  <li><a href="/#">One more 
+	nav</a></li>
+	  <li><a href="/#">Another nav 
+	  item</a></li></ul></div>
+	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 	<H1 class="page-header">Dashboard</H1>
-	<DIV class="row placeholders">
-	<DIV class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
+	<div class="row placeholders">
+	<div class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
 	data-src="holder.js/200x200/auto/sky">
-	<H4>Label</H4><SPAN class="text-muted">Something else</SPAN>             </DIV>
-	<DIV class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
+	<h4>Label</h4><span class="text-muted">Something else</span>             </div>
+	<div class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
 	data-src="holder.js/200x200/auto/vine">
-	<H4>Label</H4><SPAN class="text-muted">Something else</SPAN>             </DIV>
-	<DIV class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
+	<h4>Label</h4><span class="text-muted">Something else</span>             </div>
+	<div class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
 	data-src="holder.js/200x200/auto/sky">
-	<H4>Label</H4><SPAN class="text-muted">Something else</SPAN>             </DIV>
-	<DIV class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
+	<h4>Label</h4><span class="text-muted">Something else</span>             </div>
+	<div class="col-xs-6 col-sm-3 placeholder"><IMG class="img-responsive" alt="Generic placeholder thumbnail" 
 	data-src="holder.js/200x200/auto/vine">
-	<H4>Label</H4><SPAN class="text-muted">Something else</SPAN>             
-	</DIV></DIV>
+	<h4>Label</h4><span class="text-muted">Something else</span>             
+	</div></div>
 	<H2 class="sub-header">Section title</H2>
-	<DIV class="table-responsive">
-	<TABLE class="table table-striped">
-	  <THEAD>
-	  <TR>
-		<TH>#</TH>
-		<TH>Header</TH>
-		<TH>Header</TH>
-		<TH>Header</TH>
-		<TH>Header</TH></TR></THEAD>
-	  <TBODY>
-	  <TR>
-		<TD>1,001</TD>
-		<TD>Lorem</TD>
-		<TD>ipsum</TD>
-		<TD>dolor</TD>
-		<TD>sit</TD></TR>
-	  <TR>
-		<TD>1,002</TD>
-		<TD>amet</TD>
-		<TD>consectetur</TD>
-		<TD>adipiscing</TD>
-		<TD>elit</TD></TR>
-	  <TR>
-		<TD>1,003</TD>
-		<TD>Integer</TD>
-		<TD>nec</TD>
-		<TD>odio</TD>
-		<TD>Praesent</TD></TR>
-	  <TR>
-		<TD>1,003</TD>
-		<TD>libero</TD>
-		<TD>Sed</TD>
-		<TD>cursus</TD>
-		<TD>ante</TD></TR>
-	  <TR>
-		<TD>1,004</TD>
-		<TD>dapibus</TD>
-		<TD>diam</TD>
-		<TD>Sed</TD>
-		<TD>nisi</TD></TR>
-	  <TR>
-		<TD>1,005</TD>
-		<TD>Nulla</TD>
-		<TD>quis</TD>
-		<TD>sem</TD>
-		<TD>at</TD></TR>
-	  <TR>
-		<TD>1,006</TD>
-		<TD>nibh</TD>
-		<TD>elementum</TD>
-		<TD>imperdiet</TD>
-		<TD>Duis</TD></TR>
-	  <TR>
-		<TD>1,007</TD>
-		<TD>sagittis</TD>
-		<TD>ipsum</TD>
-		<TD>Praesent</TD>
-		<TD>mauris</TD></TR>
-	  <TR>
-		<TD>1,008</TD>
-		<TD>Fusce</TD>
-		<TD>nec</TD>
-		<TD>tellus</TD>
-		<TD>sed</TD></TR>
-	  <TR>
-		<TD>1,009</TD>
-		<TD>augue</TD>
-		<TD>semper</TD>
-		<TD>porta</TD>
-		<TD>Mauris</TD></TR>
-	  <TR>
-		<TD>1,010</TD>
-		<TD>massa</TD>
-		<TD>Vestibulum</TD>
-		<TD>lacinia</TD>
-		<TD>arcu</TD></TR>
-	  <TR>
-		<TD>1,011</TD>
-		<TD>eget</TD>
-		<TD>nulla</TD>
-		<TD>Class</TD>
-		<TD>aptent</TD></TR>
-	  <TR>
-		<TD>1,012</TD>
-		<TD>taciti</TD>
-		<TD>sociosqu</TD>
-		<TD>ad</TD>
-		<TD>litora</TD></TR>
-	  <TR>
-		<TD>1,013</TD>
-		<TD>torquent</TD>
-		<TD>per</TD>
-		<TD>conubia</TD>
-		<TD>nostra</TD></TR>
-	  <TR>
-		<TD>1,014</TD>
-		<TD>per</TD>
-		<TD>inceptos</TD>
-		<TD>himenaeos</TD>
-		<TD>Curabitur</TD></TR>
-	  <TR>
-		<TD>1,015</TD>
-		<TD>sodales</TD>
-		<TD>ligula</TD>
-		<TD>in</TD>
-		<TD>libero</TD></TR></TBODY></TABLE></DIV></DIV></DIV></DIV><!-- Bootstrap core JavaScript
+	<div class="table-responsive">
+	<table class="table table-striped">
+	  <thead>
+	  <tr>
+		<th>#</th>
+		<th>Header</th>
+		<th>Header</th>
+		<th>Header</th>
+		<th>Header</th></tr></thead>
+	  <Tbody>
+	  <tr>
+		<td>1,001</td>
+		<td>Lorem</td>
+		<td>ipsum</td>
+		<td>dolor</td>
+		<td>sit</td></tr>
+	  <tr>
+		<td>1,002</td>
+		<td>amet</td>
+		<td>consectetur</td>
+		<td>adipiscing</td>
+		<td>elit</td></tr>
+	  <tr>
+		<td>1,003</td>
+		<td>Integer</td>
+		<td>nec</td>
+		<td>odio</td>
+		<td>Praesent</td></tr>
+	  <tr>
+		<td>1,003</td>
+		<td>libero</td>
+		<td>Sed</td>
+		<td>cursus</td>
+		<td>ante</td></tr>
+	  <tr>
+		<td>1,004</td>
+		<td>dapibus</td>
+		<td>diam</td>
+		<td>Sed</td>
+		<td>nisi</td></tr>
+	  <tr>
+		<td>1,005</td>
+		<td>Nulla</td>
+		<td>quis</td>
+		<td>sem</td>
+		<td>at</td></tr>
+	  <tr>
+		<td>1,006</td>
+		<td>nibh</td>
+		<td>elementum</td>
+		<td>imperdiet</td>
+		<td>Duis</td></tr>
+	  <tr>
+		<td>1,007</td>
+		<td>sagittis</td>
+		<td>ipsum</td>
+		<td>Praesent</td>
+		<td>mauris</td></tr>
+	  <tr>
+		<td>1,008</td>
+		<td>Fusce</td>
+		<td>nec</td>
+		<td>tellus</td>
+		<td>sed</td></tr>
+	  <tr>
+		<td>1,009</td>
+		<td>augue</td>
+		<td>semper</td>
+		<td>porta</td>
+		<td>Mauris</td></tr>
+	  <tr>
+		<td>1,010</td>
+		<td>massa</td>
+		<td>Vestibulum</td>
+		<td>lacinia</td>
+		<td>arcu</td></tr>
+	  <tr>
+		<td>1,011</td>
+		<td>eget</td>
+		<td>nulla</td>
+		<td>Class</td>
+		<td>aptent</td></tr>
+	  <tr>
+		<td>1,012</td>
+		<td>taciti</td>
+		<td>sociosqu</td>
+		<td>ad</td>
+		<td>litora</td></tr>
+	  <tr>
+		<td>1,013</td>
+		<td>torquent</td>
+		<td>per</td>
+		<td>conubia</td>
+		<td>nostra</td></tr>
+	  <tr>
+		<td>1,014</td>
+		<td>per</td>
+		<td>inceptos</td>
+		<td>himenaeos</td>
+		<td>Curabitur</td></tr>
+	  <tr>
+		<td>1,015</td>
+		<td>sodales</td>
+		<td>ligula</td>
+		<td>in</td>
+		<td>libero</td></tr></Tbody></table></div></div></div></div><!-- Bootstrap core JavaScript
 		================================================== --> 
 		<!-- Placed at the end of the document so the pages load faster -->     
-	<SCRIPT src="js/jquery-1.10.2.min.js"></SCRIPT>
+	<script src="js/jquery-1.10.2.min.js"></script>
 		 
-	<SCRIPT src="js/bootstrap.min.js"></SCRIPT>
+	<script src="js/bootstrap.min.js"></script>
 		 
-	<SCRIPT src="js/docs.min.js"></SCRIPT>
-</BODY>
-</HTML>
+	<script src="js/docs.min.js"></script>
+</body>
+</html>
