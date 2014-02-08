@@ -40,7 +40,7 @@
 	<DIV class="row">
 	<DIV class="col-sm-3 col-md-2 sidebar">
 	<UL class="nav nav-sidebar">
-	  <LI class="active"><A 
+	  <LI class="active"><A "
 	  href="http://getbootstrap.com/examples/dashboard/#">Overview</A></LI>
 	  <LI><A href="/#">Reports</A></LI>
 	  <LI><A href="/#">Analytics</A></LI>
