@@ -42,25 +42,25 @@
 	<UL class="nav nav-sidebar">
 	  <LI class="active"><A 
 	  href="http://getbootstrap.com/examples/dashboard/#">Overview</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Reports</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Analytics</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/#">Export</A></LI></UL>
+	  <LI><A href="/#">Reports</A></LI>
+	  <LI><A href="/#">Analytics</A></LI>
+	  <LI><A href="/#">Export</A></LI></UL>
 	<UL class="nav nav-sidebar">
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">Nav item</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">Nav item 
+	  <LI><A href="/#">Nav item</A></LI>
+	  <LI><A href="/#">Nav item 
 	  again</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">One more 
+	  <LI><A href="/#">One more 
 	nav</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">Another nav 
+	  <LI><A href="/#">Another nav 
 	  item</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">More 
+	  <LI><A href="/#">More 
 	  navigation</A></LI></UL>
 	<UL class="nav nav-sidebar">
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">Nav item 
+	  <LI><A href="/#">Nav item 
 	  again</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">One more 
+	  <LI><A href="/#">One more 
 	nav</A></LI>
-	  <LI><A href="http://getbootstrap.com/examples/dashboard/">Another nav 
+	  <LI><A href="/#">Another nav 
 	  item</A></LI></UL></DIV>
 	<DIV class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 	<H1 class="page-header">Dashboard</H1>
