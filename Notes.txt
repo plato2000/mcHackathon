@@ -1,3 +1,0 @@
--Using a map
--Pulling data from text file or server
--Information given out: Everything on the database
