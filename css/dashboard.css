@@ -3,11 +3,10 @@
  */
 
 /* Move down content because we have a fixed navbar that is 50px tall */
+
 body {
   padding-top: 50px;
 }
-
-
 /*
  * Global add-ons
  */
@@ -16,13 +15,12 @@ body {
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
 }
-
-
 /*
  * Sidebar
  */
 
 /* Hide for mobile, show later */
+
 .sidebar {
   display: none;
 }
@@ -39,11 +37,12 @@ body {
     border-right: 1px solid #eee;
   }
 }
-
 /* Sidebar navigation */
+
 .nav-sidebar {
   margin-left: -20px;
-  margin-right: -21px; /* 20px padding + 1px border */
+  margin-right: -21px;
+  /* 20px padding + 1px border */
   margin-bottom: 20px;
 }
 .nav-sidebar > li > a {
@@ -54,8 +53,6 @@ body {
   color: #fff;
   background-color: #428bca;
 }
-
-
 /*
  * Main content
  */
@@ -72,8 +69,6 @@ body {
 .main .page-header {
   margin-top: 0;
 }
-
-
 /*
  * Placeholder dashboard ideas
  */

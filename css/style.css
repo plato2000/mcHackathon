@@ -1,17 +1,14 @@
-body
-{
-  background-color:#FFFFFF;
+body {
+  background-color: #FFFFFF;
 }
-h1
-{
-  font-family:"Arial";
-  color:black;
-  text-align:center;
+h1 {
+  font-family: "Arial";
+  color: black;
+  text-align: center;
 }
-p
-{
-  font-family:"Arial";
-  color:black;
-  text-align:center;
-  font-size:20px;w
+p {
+  font-family: "Arial";
+  color: black;
+  text-align: center;
+  font-size: 20px;
 }
